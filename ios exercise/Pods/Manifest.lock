@@ -1,0 +1,16 @@
+PODS:
+  - PagingMenuController (2.2.0)
+
+DEPENDENCIES:
+  - PagingMenuController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PagingMenuController
+
+SPEC CHECKSUMS:
+  PagingMenuController: 6176618987bb170096664f2da097313e45ed9c31
+
+PODFILE CHECKSUM: b481dfc313ff5efbad54360b23738b1a6c8e3ca7
+
+COCOAPODS: 1.5.3
